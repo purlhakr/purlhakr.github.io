@@ -29,7 +29,8 @@ github_username:  purlhakr
 google_analytics: G-GP6Y3XQWBJ
 
 # Build settings
-remote_theme: pages-themes/hacker@v0.2.0
+theme: minima
+#remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
