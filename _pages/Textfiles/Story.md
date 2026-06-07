@@ -1,0 +1,5 @@
+The green dragons live in the hills and valleys of the low country. Unlike most dragons of the high country, green dragons are not voracious killers nor are they obsessed with shiny trinkets. No, green dragons live relatively simple lives, and even sometimes work with their neighbors. Green dragons are not primarily meat eaters, although they do take a cow or similar animal on occasion, they do seem to prefer the stickly leaves of fir trees, among other leafy treats in the valleys.
+
+Another resident of the valley are brightly colored Zombie cats. Zombie cats are named for the first cat discovered. A lone cat had traveled far, south into lands controlled by humans. The cat had a far away, melancholy appearance. He meandered, seemingly without purpose, in a zombie-like state. Zombie cats are actually very social creatures that find a mate at a young age, and bond for life. When one dies, the mate descends into a fugue, and usually dies soon after. Zombie cats, when with a mate, are generally happy, fun-loving creatures, that enjoy games and other pleasant pastimes.
+
+Today I will set out with the crew to study these fantastic creatures in thier natural habitat.

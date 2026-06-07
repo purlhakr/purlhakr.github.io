@@ -1,0 +1,16 @@
+F12 commands in Hotline Client 1.2.1 and 1.2:
+
+
+
+¥shipaspa          same as 'icon'
+¥banligerm         ML$ icon
+¥evynies           ML icon
+¥copperprod        ML icon
+¥bngamya           whirl icon (only with right IP)
+¥anthedge          the red H icon
+¥beertilxx         bacon, pig, chat=pork, etc.
+¥hydrowart         put num [000-999] in bottom box, encrypts -chat, only you and others using the same number can read each-others chat
+¥cerfsud           disables hard space to soft space - conversion
+¥fuelharp          tells (in chat) your leeching rate (If >0 - then DL>UL, If <0 then ul>dl)
+¥hoozyurdaddy      bottom box = day-of-month^2A  (plays music ;)
+¥sndbuf            bottom box = send buffer (in K) (sets send buffer size)

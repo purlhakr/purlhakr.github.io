@@ -1,0 +1,673 @@
+  ___________________________________________________________________________
+ / V3                                                                        \
+{------=====    J U S T I C E   L E A G U E   O V E R P O W E R    =====------}
+ \___________________________________________________________________________/
+
+J L A   D C   O P   C H A R A C T E R S    (Energy-Fighting-Strength-Intellect)
+
+ Character  (H/V)       Grid (Total)  Inherent Ability
+
+ AQUAMAN  (H)           2-5-6-6 (19)  May have duplicate "Allies From The Deep"
+ BLACK CANARY  (H)      3-7-3-5 (18)  May Place/play any Hero Intellect Ally
+ BLUE BEETLE  (H)       4-6-4-5 (19)  Team is +2 to Venture Total per battle
+ BOOSTER GOLD  (H)      6-4-5-3 (18)  Intellect Power cards +3 used for defense
+ CAPTAIN ATOM  (H)      7-6-4-3 (20)  May play Fighting Teamworks from Reserve
+ CAPTAIN MARVEL  (H)    5-4-7-2 (18)  May play "Speed of Mercury" from Reserve
+ DARKSEID  (V)          6-3-8-6 (23)
+ DOCTOR POLARIS  (V)    6-4-4-6 (20)  Power cards are +1 when used for defense
+ THE FLASH  (H)         6-6-4-3 (19)  May play "Reap the Whirlwind" frm Reserve
+ GREEN ARROW  (H)       4-7-3-5 (19)  May attack Reserve w/ Energy Power cards
+ GREEN LANTERN  (H)     7-3-4-4 (18)  Not Spectrum KO'd with Energy Power cards
+ HAWKMAN  (H)           4-6-6-4 (20)  Basic Universe card bonuses are +2
+ MARTIAN MANHUNTER  (H) 4-4-7-5 (20)  Teammates' Training card bonuses are +1
+ MISTER MIRACLE  (H)    3-5-3-7 (18)  Only Spectrum KO'd by four Power Types
+ NERON  (V)             5-2-6-8 (21)
+ ORION  (H)             4-7-7-2 (20)
+ PARALLAX  (V)          7-6-3-5 (21)  Hero code -1 to attack P. in 1st battle
+ THE RAY  (H)           8-4-4-2 (18)
+ THE TRICKSTER          6-5-1-7 (19)
+ WONDER WOMAN  (H)      1-8-6-5 (20)
+_______________________________________________________________________________
+
+B R E A K D O W N   O F   J L A   D C   O V E R P O W E R   C A R D S
+
+  20  Characters     ( 15 Hero + 4 Villain + 1 Neutral )
+ 134  Special Cards  (  4 Marvel Any Hero Reprint Any Character Specials + 
+                        5 for each JLA Character + 1 for each B/S Character )
+   1  Power Card     (  1 Any-Power )
+  15  Universe Cards ( 15 Ally )
+  14  Tactic Cards   ( 14 Double Shot )
+   7  Mission Cards  (  1 Mission Set )
+ + 6  Event Cards    (  5 for New Mission + 1 Any Mission )
+ ---
+ 197  Justice League DC OverPower Cards
+_______________________________________________________________________________
+
+C H A R A C T E R   C A R D S   A N D   S P E C I A L   C A R D S
+
+    ANY CHARACTER
+     * CONFUSION (DB) <JL> {R} [OPD]
+        Avoids all attacks from 1 Teamwork card, or Target Character must
+            discard 1 Placed Teamwork card.
+     * DEATH FROM ABOVE (AA) <JL> {R} [OPD]
+        Parademons swoop in and make a level 4 Fighting attack! Any character
+            may make 1 additional attack.
+     * GUARDIAN ANGEL (AG) <JL> {VR} [OPD]
+        The Guardian gives warning. Any character may avoid 1 attack.
+     * WIZARD IN TOP HAT & TAILS (BQ) <JL> {VR} [OPD]
+        Exchange this card for any 1 card in Dead Pile. Counts as Duplicate of
+            all "Any Hero/Character" BQ Specials.
+      ____________________________________________________________________
+
+  * AQUAMAN  (H) <JL> {U}                      E: 2   F: 5   S: 6   I: 6   (19)
+       ~ May have duplicate "Allies From The Deep" Specials. ~
+     * ALLIES FROM THE DEEP (EB) <JL> {U}
+        Play this card in front of Aquaman, Aquaman may not be attacked until
+            this Special is attacked. Aquaman may not defend this card.
+     * DOLPHIN (JC) <JL> {U}
+        Acts as a level 5 Energy attack. Aquaman may play 1 additional Special
+            card.
+     * HOOK (AR) <JL> {R}
+        Acts as a level 7 Fighting attack.
+     * KING OF THE SEAS (AG) <JL> {U}
+        Avoid 1 attack.
+     * LINE (CH) <JL> {VR} [OPD]
+        Target character must discard all Placed cards and may not attack for
+            remainder of battle.
+      ____________________________________________________________________
+
+    AZRAEL
+     * KNOW MY WRATH (AS) (H) <JL> {R} [OPD]
+        Acts as a level 10 Fighting attack.
+      ____________________________________________________________________
+
+    BANE
+     * INTELLECTUAL SUPERIORITY (HR) (V) <JL> {R} [OPD]
+        Acts as a level 9 Energy or Intellect attack.
+      ____________________________________________________________________
+
+    BATMAN
+     * THE DARK KNIGHT (HL) (H) <JL> {R}
+        Opponent's team may not use Intellect Power cards level 6 through 8 to
+            attack for remainder of battle.
+      ____________________________________________________________________
+
+  * BLACK CANARY  (H) <JL> {U}                 E: 3   F: 7   S: 3   I: 5   (18)
+       ~ May Place and play any Hero Intellect Ally cards. ~
+     * BIRD OF PREY (AA) <JL> {C}
+        Acts as a level 4 Fighting attack. May make 1 additional attack.
+     * OPENING FLOWER DISCIPLINE (JH) <JL> {U}
+        Acts as a level 5 Strength attack. If successful, Target character -2
+            to defense for remainder of battle.
+     * THE ORACLE CONNECTION (JC) <JL> {U}
+        Acts as a level 5 Intellect attack. Black Canary may play 1 additional
+            Special card.
+     * STREET SMARTS (AJ) <JL> {VR} [OPD]
+        Black Canary may look at top 6 cards in opponent's Draw Pile.
+     * WORKING CLOTHES (AD) <JL> {C}
+        Avoid 1 attack made with a Universe card.
+      ____________________________________________________________________
+
+  * BLUE BEETLE  (H) <JL> {C}                  E: 4   F: 6   S: 4   I: 5   (19)
+       ~ Team is +2 to Venture Total per battle. ~
+     * AIRGUN (BA) <JL> {U}
+        Acts as a level 3 Energy attack. Can only be defended by a card with a
+            Strength icon.
+     * THE BUG (HH) <JL> {U}
+        Blue Beetle may have an unlimited number of Special cards placed on
+            him until Blue Beetle is KO'd. Specials may not be duplicates.
+     * BWAH-HA-HA-HA! (HO) <JL> {R}
+        Acts as a level 6 Intellect attack. If successful, opponent -4 to
+            Venture total.
+     * FRICTIONLESS FOAM (JB)=>(IB) <JL> {U}
+        Opponent must discard all placed Universe cards, and is -3 to Venture
+            total.
+     * QUICK WITS (AD) <JL> {U}
+        Avoid any attack made with a Power card.
+      ____________________________________________________________________
+
+  * BOOSTER GOLD  (H) <JL> {C}                 E: 6   F: 4   S: 5   I: 3   (18)
+       ~ Intellect Power cards are +3 when used for defense. ~
+     * ENERGY ABSORPTION FIELD (AH) <JL> {VR} [OPD]
+        Avoid 1 attack with an Energy icon. No Energy Power cards may be
+            played against Booster Gold's team for remainder of battle.
+     * GAUNTLET ENERGY BLAST (AA) <JL> {C}
+        Acts as a level 4 Energy attack. May make 1 additional attack.
+     * MIDAS MODE (JG) <JL> {U}
+        Booster Gold may play any Energy or Strength Teamwork cards for
+            remainder of game.
+     * QUARTERBACK SNEAK (AN) <JL> {U}
+        Acts as a level 6 Strength attack, may be used against character in
+            Reserve, who may defend.
+     * SKEETS (HT) <JL> {U} [OPD]
+        Choose 1 Power card usable by Booster Gold from Power Pack and place in
+            hand. May be duplicate. Reshuffle Power Pack.
+      ____________________________________________________________________
+
+    BRAINIAC
+     * BRAIN DRAIN (CU) (V) <JL> {R} [OPD]
+        Acts as a level 8 Intellect attack. If successful Target must
+            immediately discard 1 Placed card, of Brainiac's choice.
+      ____________________________________________________________________
+
+  * CAPTAIN ATOM  (H) <JL> {R}                 E: 7   F: 6   S: 4   I: 3   (20)
+       ~ May play Fighting Teamwork cards from Reserve. ~
+     * ANTI-GRAVITY FIELD (JD) <JL> {VR} [OPD]
+        Captain Atom may not attack or be attacked with Basic Universe cards
+            for remainder of game.
+     * ATOMIC BOLT (HR) <JL> {VR} [OPD]
+        Acts as a level 9 Energy or Fighting attack.
+     * ATOMIC PUNCH (AA) <JL> {C}
+        Acts as a level 4 Strength attack. May make 1 additional attack.
+     * QUANTUM JUMP (JB) <JL> {VR} [OPD]
+        Remove all Hits from Captain Atom's Permanent Record and Current
+            Battle, and switch places with the Reserve.
+     * SKIN ALLOY (AM) <JL> {U}
+        Captain Atom gains a +2 to defense for remainder of battle.
+      ____________________________________________________________________
+
+  * CAPTAIN MARVEL  (H) <JL> {U}               E: 5   F: 4   S: 7   I: 2   (18)
+       ~ May play "Speed of Mercury" from Reserve. ~
+     * THE MARVEL FAMILY (JC) <JL> {R}
+        Acts as a level 3 Energy, Fighting, Strength, or Intellect attack.
+            Captain Marvel may play 1 additional Special card.
+     * POWER OF ZEUS (DO) <JL> {U}
+        Negates the effect of any 1 Special card played by opponent against
+            Captain Marvel only.
+     * SPEED OF MERCURY (AY) <JL> {VR} [OPD]
+        Captain Marvel's Fighting Rating increases to 7 for remainder of game.
+     * STAMINA OF ATLAS (JE) <JL> {VR} [OPD]
+        Any cards with more than 1 icon on Captain Marvel's Permanent Record
+            become Any-Power cards for the remainder of the game.
+     * STRENGTH OF HERCULES (AP) <JL> {U}
+        Acts as a level 6 Strength attack. Cannot be defended by a card with an
+            Energy icon.
+      ____________________________________________________________________
+
+    CATWOMAN
+     * PROWLING BY NIGHT (DB) (V) <JL> {R}
+        Avoids all attacks from 1 Teamwork card, or Target Character must
+            discard 1 Placed Teamwork card.
+      ____________________________________________________________________
+
+    COMM. GORDON & G.C.P.D.
+     * THE BAT SIGNAL (HI)=>(HU) (H) <JL> {R}
+        Comm. Gordon may Place and play Batman "Master Detective" and "The
+            Dark Knight" Special cards for remainder of game.
+      ____________________________________________________________________
+
+    THE CYBORG
+     * INTERSTELLAR MENACE (CH) (V) <JL> {R} [OPD]
+        Target character must discard all Placed cards and may not attack for
+            remainder of battle.
+      ____________________________________________________________________
+
+  * DARKSEID  (V) <JL> {R}                     E: 6   F: 3   S: 8   I: 6   (23)
+     * DESAAD (JC) <JL> {U}
+        Acts as a level 5 Intellect attack. Darkseid may play 1 additional
+            Special card.
+     * GRANNY GOODNESS (AK) <JL> {U}
+        Play during battle. For remainder of battle, all Fighting bonuses from
+            Teamwork cards are doubled.
+     * KALIBAK (EB) <JL> {U}
+        Play this card in front of Darkseid. Darkseid may not be attacked until
+            this Special is attacked. Darkseid may not defend this card.
+     * LORD OF APOKOLIPS (DU) <JL> {VR} [OPD]
+        Darkseid may make 4 attacks, 3 attacks at +1 each, 2 attacks at +2
+            each, or 1 attack at +3. Bonus not applied to damage, or Venture
+            Total.
+     * OMEGA EFFECT (BM) <JL> {VR} [OPD]
+        Acts as a level 7 Intellect attack. If successful, Target character may
+            not attack for remainder of battle
+      ____________________________________________________________________
+
+  * DOCTOR POLARIS  (V) <JL> {C}               E: 6   F: 4   S: 4   I: 6   (20)
+       ~ Power cards are +1 when used for defense. ~
+     * BLACK HOLE FORCE BEAM (DQ) <JL> {VR} [OPD]
+        Target character's Hits to KO number is decreased by 5 points for
+            remainder of game.
+     * FORCE OF NATURE (JI) <JL> {U}
+        Play during battle. At end of battle, Opponent may not move any Mission
+            cards from the Defeated Missions Pile.
+     * MAGNETIC ENERGY BOLT (HF) <JL> {C}
+        Acts as a level 4 Fighting or Strength attack.
+     * MAGNETIC SPHERE (AG) <JL> {U}
+        Avoid 1 attack.
+     * MAKE THE BLOOD BOIL (GD) <JL> {VR} [OPD]
+        Acts as a level 7 Any-Power attack. If successful, acts as a level 0
+            Energy, Fighting, Strength or Intellect power card.
+      ____________________________________________________________________
+
+    DOOMSDAY
+     * ENGINE OF DESTRUCTION (GL) (V) <JL> {R} [OPD]
+        Sort through opponent's Draw Pile. Choose any 1 card and remove it from
+            the game. Reshuffle Draw Pile.
+      ____________________________________________________________________
+
+    THE ERADICATOR
+     * A LASTING IMPRESSION (CL) (H) <JL> {R}
+        Play in current battle. The Eradicator may play any KO'd teammate's
+            Specials in next battle.
+      ____________________________________________________________________
+
+  * THE FLASH  (H) <JL> {C}                    E: 6   F: 6   S: 4   I: 3   (19)
+       ~ May play "Reap the Whirlwind" from Reserve. ~
+     * 1-2 (THOUSAND) PUNCH (DG) <JL> {C}
+        Acts as a level 2 Strength attack. May make 2 additional attacks.
+     * THE FASTEST MAN ALIVE (AG) <JL> {U}
+        Avoid 1 attack.
+     * REAP THE WHIRLWIND (AI) <JL> {U}
+        Opponent must discard 1 Placed card of The Flash's choice.
+     * SPEED-LENDING (AR) <JL> {U}
+        Acts as a level 7 Strength attack.
+     * TAPPING THE SPEED FORCE (JA) <JL> {VR} [OPD]
+        Discard one Energy Power card usable by The Flash to draw 4 cards from
+            top of the Draw Pile. May keep duplicates.
+      ____________________________________________________________________
+
+  * GREEN ARROW  (H) <JL> {U}                  E: 4   F: 7   S: 3   I: 5   (19)
+       ~ May attack the Reserve with Energy Power cards. ~
+     * AIKIDO STRIKE (HF) <JL> {C}
+        Acts as a level 4 Intellect or Strength attack.
+     * EDDIE FYERS (JC) <JL> {U}
+        Acts as a level 5 Fighting attack. Green Arrow may play 1 additional
+            Special card.
+     * THE EMERALD ARCHER (IE) <JL> {VR} [OPD]
+        Play during battle. At end of battle, opponent may only move 1 Mission
+            card. Other Mission cards return to piles Ventured from.
+     * KYUDO DISCIPLINE (AV) <JL> {VR} [OPD]
+        Target opponent may not attack for remainder of battle.
+     * THE LONGBOW HUNTER (EI) <JL> {U}
+        Acts as a level 2 Strength attack. May be made after opponent has
+            conceded the battle, opponent may defend.
+      ____________________________________________________________________
+
+  * GREEN LANTERN  (H) <JL> {U}                E: 7   F: 3   S: 4   I: 4   (18)
+       ~ May not be Spectrum KO'd with Energy Power cards. ~
+     * GOIN' BALLISTIC (AD) <JL> {C}
+        Avoid 1 attack that contains a Strength icon.
+     * GOTCHA! (AX) <JL> {U}
+        Green Lantern and Target character may not attack for remainder of
+            battle.
+     * LET'S GET MEDIEVAL! (JF) <JL> {VR} [OPD]
+        All Any-Power cards on target character's Permanent Record become
+            Strength cards for remainder of game.
+     * POWER OF IMAGINGATION (HR) <JL> {VR} [OPD]
+        Acts as a level 9 Energy or Intellect attack.
+     * ...THIS IS A GUN (HN) <JL> {U}
+        Acts as a level 8 Any-Power attack. Does not count toward Spectrum KO.
+      ____________________________________________________________________
+
+  * HAWKMAN  (H) <JL> {U}                      E: 4   F: 6   S: 6   I: 4   (20)
+       ~ Basic Universe card bonuses are an additional +2. ~
+     * CESTUS GLOVE (JF) <JL> {VR} [OPD]
+        All Any-Power cards on target character's Permanent Record become
+            Fighting cards for remainder of game.
+     * KATAR BLADE (EZ) <JL> {VR} [OPD]
+        Play in the current battle. Hawkman's Energy and Fighting ratings are
+            increased to 7 in the next battle.
+     * MACE (AP) <JL> {U}
+        Acts as a level 6 Strength attack. Cannot be defended by a card with a
+            Fighting icon.
+     * THANAGARIAN BLASTER (HF) <JL> {C}
+        Acts as a level 4 Fighting or Energy attack.
+     * THE WINGED WARRIOR (FD) <JL> {VR} [OPD]
+        Only Hawkman and Target character may attack, be attacked or defend
+            this battle.
+      ____________________________________________________________________
+
+    HAZARD
+     * CYBER-JACKED (HQ) (V) <JL> {U} =>[OPD]
+        Draw 3 cards. Discard duplicates.
+      ____________________________________________________________________
+
+    THE HUNTRESS
+     * THRILL OF THE HUNT (GL) (H) <JL> {R} [OPD]
+        Sort through opponent's Draw Pile. Choose any 1 card and remove it from
+            the game. Reshuffle the Draw Pile.
+      ____________________________________________________________________
+
+    THE JOKER
+     * KEYS TO THE KINGDOM (AD) (V) <JL> {R}
+        The Joker may avoid any numerical attack.
+      ____________________________________________________________________
+
+    KILLER CROC
+     * DUMB LUCK (AP) (V) <JL> {R}
+        Acts as a level 6 intellect attack. Cannot be defended by a card with
+            an Intellect icon.
+      ____________________________________________________________________
+
+    KNOCKOUT
+     * ...8...9...10! YOU'RE OUT! (CR) (V) <JL> {R} [OPD]
+        Knockout may switch any two Power cards of equal value, on the
+            Permanent Record of any of two of opponent's Characters.
+      ____________________________________________________________________
+
+    LEX LUTHOR
+     * ART OF THE DEAL (IG) (V) <JL> {R} [OPD]
+        Remove any cards from Lex Luthor's Draw Pile and discard into Dead
+            Pile. Reshuffle Draw Pile.
+      ____________________________________________________________________
+
+  * MARTIAN MANHUNTER  (H) <JL> {U}            E: 4   F: 4   S: 7   I: 5   (20)
+       ~ Teammates(') Training card bonus' (BONUSES) are an additional +1. ~
+     * ALIEN PHYSIQUE (CW) <JL> {VR} [OPD]
+        Avoid 1 attack. May not be attacked for remainder of battle.
+     * MALLEABLE FORM (AZ) <JL> {U}
+        Target opponent may not attack Martian Manhunter for remainder of
+            battle unless he attacks him first.
+     * MARTIAN STRENGTH (AE) <JL> {R}
+        Acts as a level 4 Any-Power attack, may combine with 1 Energy,
+            Fighting, Strength, or Intellect Power card for a single attack.
+     * MARTIAN VISION (JF) <JL> {VR} [OPD]
+        All Any-Power cards on target character's Permanent Record become
+            Energy cards for remainder of game.
+     * TELEPATHIC PROBE (BM) <JL> {U}
+        Acts as a level 5 Energy attack. If successful, Target character may
+            not attack Martian Manhunter for remainder of battle.
+      ____________________________________________________________________
+
+    METALLO
+     * I'LL BE BACK! (JB) (V) <JL> {R} [OPD]
+        Remove all Hits from Metallo's Permanent Record and Current Battle, and
+            switch places with the Reserve.
+      ____________________________________________________________________
+
+    METROPOLIS S.C.U.
+     * COURAGE UNDER FIRE (AG) (H) <JL> {R}
+        Avoid 1 attack.
+      ____________________________________________________________________
+
+  * MISTER MIRACLE  (H) <JL> {U}               E: 3   F: 5   S: 3   I: 7   (18)
+       ~ May only be Spectrum KO'd by four Power Types. ~
+     * AERO DISKS (BS) <JL> {VR} [OPD]
+        For remainder of battle, If Mister Miracle can block a Power card
+            attack with an equal value Power card, Mister Miracle's Power card
+            hits attacker.
+     * BIG BARDA (JC) <JL> {U}
+        Acts as a level 5 Strength attack. Mister Miracle may play 1 additional
+            Special card.
+     * MOTHER BOX (JJ) <JL> {VR} [OPD]
+        Discard 1 Power card usable by Mister Miracle to remove all Hits from
+            Mister Miracle's Permanent Record of equal or lesser value.
+     * OBERON (FA) <JL> {U}
+        Mister Miracle may not attack or be attacked for remainder of battle.
+     * SUPER-ESCAPE ARTIST (AH) <JL> {C}
+        No Special cards may be played against Mister Miracle for remainder of
+            battle.
+      ____________________________________________________________________
+
+  * NERON  (V) <JL> {R}                        E: 5   F: 2   S: 6   I: 8   (21)
+     * LORD OF THE UNDERWORLD (CT) <JL> {VR} [OPD]
+        All attacks made on Neron are made on Target teammate until teammate is
+            KO'd. Teammate may defend.
+     * NECROMANTIC BLAST (EJ) <JL> {U}
+        Acts as a level 2 Energy attack. If successful, acts as a level 8
+            Fighting Power card.
+     * SEDUCTION OF THE INNOCENT (IB) <JL> {U}
+        Opponent must discard all Placed Ally cards, and is -3 to Venture
+            total.
+     * YOUR HEART'S DESIRE (HT) <JL> {VR} [OPD]
+        Choose 1 Special card not usable by Neron from Draw Pile and place in
+            hand. May not be a "One Per Deck". May be duplicate. Reshuffle Draw
+            Pile.
+     * YOUR SOUL IS MINE! (HY) <JL> {U}
+        Acts as a level 6 Intellect attack. If successful, Target character
+            must discard 2 cards of opponent's choice. Cards may be placed or
+            in hand.
+      ____________________________________________________________________
+
+    NIGHTWING
+     * TIES THAT BIND (HU) (H) <JL> {R}
+        Nightwing may Place and play Robin "Loyal Partner" and Batman "The
+            Dark Knight" Special cards for remainder of game.
+      ____________________________________________________________________
+
+  * ORION  (H) <JL> {R}                        E: 4   F: 7   S: 7   I: 2   (20)
+     * ASTRO-GLIDER (CC) <JL> {U}
+        Acts as a level 6 Any-Power card. May be used to attack or defend. May
+            not be combined with Universe cards.
+     * BOOM TUBE (IF) <JL> {U}
+        Play as Orion concedes battle. Orion's team may discard 3 cards to top
+            of Draw Pile.
+     * CONSULT THE SOURCE (JF) <JL> {VR} [OPD]
+        All Any-Power cards on Target character's Permanent Record become
+            Intellect cards for remainder of game.
+     * MOTHER BOX (JJ) <JL> {VR} [OPD]
+        Discard 1 Power card usable by Orion to remove all Hits from Orion's
+            Permanent Record of equal or lesser value.
+     * SOURCE OF THE BEAST (GJ) <JL> {C}
+        Acts as a level 4 Energy, Strength, Fighting, or Intellect attack. May
+            make 1 additional attack.
+      ____________________________________________________________________
+
+  * PARALLAX  (V) <JL> {R}                     E: 7   F: 6   S: 3   I: 5   (21)
+       ~ Characters with Hero code -1 to attack Parallax in 1st battle. ~
+     * BEWARE MY POWER (BA) <JL> {VR} [OPD]
+        Acts as a level 2 Energy, Fighting, Strength or Intellect attack. Can
+            only be defended by a defensive Special card.
+     * HEROIC REDEMPTION (JK) <JL> {U}
+        All Hits with only Energy icons in the Permanent Record of all Front
+            Line teammates are moved to the Permanent Record of Parallax.
+     * IN BLACKEST NIGHT (AM) <JL> {U}
+        Parallax gains +2 to defense for remainder of battle.
+     * IN BRIGHTEST DAY (AA) <JL> {C}
+        Acts as a level 4 Energy attack. May make 1 additional attack.
+     * ZERO HOUR (JL) <JL> {VR} [OPD]
+        Play during battle. At the end of the battle, all Hits from The Current
+            Battle for all characters are discarded and not added to the
+            Permanent Record.
+      ____________________________________________________________________
+
+    THE PARASITE
+     * DOC PARASITE (GC) (V) <JL> {R} [OPD]
+        Remove 1 hit from the permanent record of The Parasite or teammate for
+            every card in the Defeated Missions Pile.
+      ____________________________________________________________________
+
+    THE PENGUIN
+     * GOTHAM'S EMPEROR PENGUIN (AS) (V) <JL> {R} [OPD]
+        Acts as a level 11 Intellect attack, The Penguin may not attack for
+            remainder of battle.
+      ____________________________________________________________________
+
+    POISON IVY
+     * BLOWING YOU A KISS (BJ) (V) <JL> {R} [OPD]
+        Poison Ivy may not be attacked for remainder of battle.
+      ____________________________________________________________________
+
+    RA'S AL GHUL
+     * THE CLENCH (DQ) (V) <JL> {R} [OPD]
+        Opponent's team's Hits to K.O. number is decreased by 3 points for
+            remainder of battle.
+      ____________________________________________________________________
+
+  * THE RAY  (H) <JL> {R}                      E: 8   F: 4   S: 4   I: 2   (18)
+     * BLINDED BY THE LIGHT (BK) <JL> {VR} [OPD]
+        The Ray plays numerical attacks face down for remainder of battle.
+            Opponent must guess defense.
+     * ENERGY SHIELD (AH) <JL> {U}
+        Avoid 1 attack with an Energy icon. No Energy Power cards may be played
+            against The Ray for remainder of battle.
+     * IN A BLAZE OF POWER (AS)=>(HR) <JL> {VR} [OPD]
+        Acts as a level 9 Energy or Fighting attack.
+     * LIGHT CONSTRUCTS (HQ) <JL> {U} =>[OPD]
+        Draw 3 cards. Discard duplicates.
+     * SPEED OF LIGHT (AD) <JL> {C}
+        The Ray may avoid any numerical attack.
+      ____________________________________________________________________
+
+    THE RIDDLER
+     * PRINCE OF PUZZLES (CP) (V) <JL> {R} [OPD]
+        The Riddler may exchange remaining cards in hand with equal number of
+            cards from the top of the Draw Pile. May keep Duplicates.
+      ____________________________________________________________________
+
+    ROBIN
+     * SURFING THE NET (JA) (H) <JL> {R} [OPD]
+        Discard one Intellect Power card usable by Robin to draw 4 cards from
+            top of the Draw Pile. May keep duplicates.
+      ____________________________________________________________________
+
+    STEEL
+     * NIGHT VISION GOGGLES (HQ) (H) <JL> {R} =>[OPD]
+        Draw 3 cards. Discard duplicates.
+      ____________________________________________________________________
+
+    SUPERBOY
+     * THE RAVERS (FE) (H) <JL> {R}
+        Acts as a level 3 Fighting attack, each Front Line teammate may make
+            one additional attack.
+      ____________________________________________________________________
+
+    SUPERGIRL
+     * GIRL OF STEEL (HR) (H) <JL> {R} [OPD]
+        Acts as a level 9 Fighting or Strength attack.
+      ____________________________________________________________________
+
+    SUPERMAN
+     * THE MAN BEYOND TOMORROW (HN) (H) <JL> {R} [OPD]
+        Acts as a level 11 Any-Power attack. Does not count toward Spectrum KO.
+      ____________________________________________________________________
+
+    THE THORN
+     * TELL ME WHAT YOU KNOW (BZ) (H) <JL> {R} [OPD]
+        Opponent must reveal hand and play open handed for remainder of battle.
+      ____________________________________________________________________
+
+  * THE TRICKSTER  <JL> {R}                    E: 6   F: 5   S: 1   I: 7   (19)
+     * BAIT AND SWITCH (JK) <JL> {U}
+        All Hits with only Intellect icons in the Permanent Record of all Front
+            Line characters are moved to the Permanent Record of one of The
+            Trickster's teammates.
+     * CLEAN GETAWAY (AG) <JL> {U}
+        Avoid 1 attack.
+     * DON'T MIND ME... (AA) <JL> {C}
+        Acts as a level 4 Intellect attack. May make 1 additional attack.
+     * THE SHELL GAME (FB) <JL> {VR} [OPD]
+        Target character must choose 1 card from The Trickster's hand. If card
+            is an attack, Target is Hit. If not, chosen card is discarded to
+            the Power Pack.
+     * SMOOTH TALKER (JM) <JL> {VR} [OPD]
+        The Trickster may move 1 Mission Card from the Defeated Missions Pile
+            to the Reserve Missions Pile.
+      ____________________________________________________________________
+
+    TWO-FACE
+     * LAW AND DISORDER (BQ) (V) <JL> {VR} [OPD]
+        On his turn, Two-Face may exchange this card for any 1 card in Dead
+            Pile and play it immediately.
+      ____________________________________________________________________
+
+  * WONDER WOMAN (H) <JL> {R}                  E: 1   F: 8   S: 6   I: 5   (20)
+     * AMAZON MIGHT (JN) <JL> {VR} [OPD]
+        Acts as a level 1 Strength attack, +1 for each card in Wonder Woman's
+            hand. If successful, acts as a level 5 Energy or Intellect Power
+            card.
+     * BLESSED BY THE GODS (BG)=>(BQ) <JL> {VR} [OPD]
+        On her turn, Wonder Woman may exchange this card for any 1 card in Dead
+            Pile and play it immediately.
+     * BULLETS & BRACELETS (AD) <JL> {C}
+        Wonder Woman may avoid any numerical attack.
+     * GIFT OF FLIGHT (AG)=>(AD) <JL> {U}
+        Teammate may avoid 1 attack of 9 or less.
+     * LASSO OF TRUTH (BZ) <JL> {VR} [OPD]
+        Opponent must reveal hand and play open handed for remainder of battle.
+_______________________________________________________________________________
+
+P O W E R   C A R D
+
+ ANY-POWER
+  * 6A <JL> {R} [OPD]  Justice League of America
+_______________________________________________________________________________
+
+U N I V E R S E   C A R D S
+
+ALLY
+
+ ENERGY
+  * 5E 3E (H)  <JL> {C}  Fire (Blue Beetle)
+  * 6E 1E (H)  <JL> {C}  Zauriel (Martian Manhunter)
+  * 8E 3E (H)  <JL> {C}  Firestorm (The Ray)
+  * 8E 3E (V)  <JL> {C}  Dr. Destiny (Brainiac)
+
+ FIGHTING
+  * 5F 3F (V)  <JL> {C}  Shadow-Thief (Lex Luthor)
+  * 6F 1F (V)  <JL> {C}  Gorilla Grodd (Catwoman)
+  * 7F 2F (H)  <JL> {C}  Guy Gardner (Green Arrow)
+  * 8F 3F (H)  <JL> {C}  Requiem (Wonder Woman)
+  * 8F 3F (V)  <JL> {C}  Cheetah (Deathstroke)
+
+ STRENGTH
+  * 5S 3S (V)  <JL> {C}  Ocean Master (Doctor Polaris)
+  * 6S 1S (H)  <JL> {C}  Nuklon & Obsidian (Hawkman)
+  * 6S 1S (V)  <JL> {C}  Know Man (Neron)
+  * 7S 2S (H)  <JL> {C}  Metamorpho (Martian Manhunter)
+  * 8S 3S (V)  <JL> {C}  Black Adam (Darkseid)
+
+ INTELLECT
+  * 5I 3I (V)  <JL> {C}  Dr. Sivana (Parasite)
+_______________________________________________________________________________
+
+T A C T I C   C A R D S
+
+DOUBLE SHOT
+
+ ENERGY
+  * 6E 4E  6F I  <JL> {C}  Impulse & The Flash
+  * 6E 4E  6S E  <JL> {C}  Captain Marvel & Superman 
+
+ FIGHTING
+  * 6F 4F  6E F  <JL> {C}  Blue Beetle & Booster Gold
+  * 6F 4F  6E S  <JL> {C}  Green Arrow & Green Lantern
+  * 6F 4F  6S I  <JL> {C}  Batman & Martian Manhunter
+
+ STRENGTH
+  * 6S 4S  6E F  <JL> {C}  Superman & Captain Atom
+  * 6S 4S  6E I  <JL> {C}  Superman & The Ray
+  * 6S 4S  6F E  <JL> {C}  The Flash & Superman
+  * 6S 4S  6I F  <JL> {C}  Orion & Mister Miracle
+  * 6S 4S  6I S  <JL> {C}  Aquaman & Superman
+
+ INTELLECT
+  * 6I 4I  6E S  <JL> {C}  The Trickster & Neron
+  * 6I 4I  6F S  <JL> {C}  Wonder Woman & Batman
+  * 6I 4I  6F I  <JL> {C}  Black Canary & Batman
+  * 6I 4I  6S F  <JL> {C}  Hawkman & Batman
+_______________________________________________________________________________
+
+M I S S I O N   C A R D S   A N D   E V E N T   C A R D S
+
+    ANY MISSION
+    Justice League Case File:
+     * SOVEREIGN SEVEN  <JL> {VR}              Sovereign Seven
+        Remove one hit from the Permanent Record of all characters with an
+            Inherent Ability.
+      ____________________________________________________________________
+
+  * THE BRAVE AND THE BOLD  <JL>
+     * 1  {C}  Darkseid
+     * 2  {C}  Superman, The Flash, Green Lantern, Wonder Woman
+     * 3  {C}  The Flash, Green Lantern, Hawkman
+     * 4  {C}  Captain Atom, Wonder Woman, Female Furies
+     * 5  {C}  Captain Marvel, Mister Miracle, Orion
+     * 6  {C}  Martian Manhunter & Kalibak
+     * 7  {C}  Superman, Orion, Mister Miracle
+  * Justice League Case Files:
+     * AQUAMAN VS. DEEP SIX  <JL> {C}
+        All Inherent Abilities that have a + to defense receive an additional
+            +1 this battle.
+     * BATMAN VS. KANTO  <JL> {C}
+        One Front Line character of your choice is immediately KO'd. Reserve 
+            character immediately moves into play. Card is discarded if it will
+            end game.
+     * BLUE BEETLE VS. GLORIOUS GODFREY  <JL> {C}
+        Choose one of opponent's Front Line characters. All attacks against
+            chosen character are at +1 this battle.
+     * DARKSEID'S ELITE  <JL> {C}
+        All Inherent Abilities that have a + to attack receive an additional +1
+            this battle.
+     * GREEN ARROW, BLACK CANARY, AMAZING GRACE  <JL> {C}
+        Move the Reserve character to the Front Line this battle. Return that 
+            character to Reserve at the end of the battle.

@@ -1,0 +1,4 @@
+***** Requires a 32GB or larger SD card ******
+Default Username = ubuntu
+Default Password = dragon
+Recommend running the SDRPlay API installer located under "other".

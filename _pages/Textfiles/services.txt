@@ -1,0 +1,6 @@
+kavita
+prowlarr
+radarr
+sonarr
+
+sabnzbd

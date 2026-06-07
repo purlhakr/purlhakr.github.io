@@ -1,0 +1,5 @@
+- Wall Street Collapse (1st)
+- Workers rights, unions
+- Tariffs (President?)
+- Economic balance, wage disparacy
+- Union corruption

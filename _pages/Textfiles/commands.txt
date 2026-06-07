@@ -1,0 +1,13 @@
+winget upgrade --include-unknown --all
+winget upgrade --all
+
+docker exec -it <container_name> /bin/bash
+
+C:\Windows\system32\config\systemprofile\Downloads
+
+
+HALO
+CD Key: Kq6j6-RyBJG-G92jR-PT99J-Qf6vw
+Product Key: MHJYD-HCYX4-VC8TD-J32X8-7KD4B
+
+

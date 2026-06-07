@@ -1,0 +1,6 @@
+nmcli dev status
+nmcli radio wifi
+nmcli radio wifi on
+nmcli dev wifi list
+sudo nmcli dev wifi connect TP-Link_6216 password "okay483cry4832road"
+nmcli con show

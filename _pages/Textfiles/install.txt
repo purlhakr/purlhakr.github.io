@@ -1,0 +1,18 @@
+homebrew: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+eget: curl https://zyedidia.github.io/eget.sh | sh
+
+bbcli: eget hako/bbcli
+bbrew: eget Valkyrie00/bold-brew
+daylight: eget jbreckmckye/daylight
+fastfetch: eget fastfetch-cli/fastfetch
+htop: apt install htop
+impala: eget pythops/impala
+irssi: apt install irssi
+lazydocker: eget jesseduffield/lazydocker
+lue: pip install lue-reader
+mastui: pipx install mastui
+mc: apt install mc
+neomutt: apt install neomutt
+neovim: apt install neovim
+newsboat: apt install newsboat
+tmux: apt install tmux

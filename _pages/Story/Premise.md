@@ -1,0 +1,7 @@
+In the not so distant future, mankind has fallen into two societal classes. Those with and those without. Most of the planet is ruled by a consortium of corporations, that solely vote to fill the governmental positions around the planet. Corruption in government has evolved to is purest form, as officials are directed exclusively by the consortium. 
+
+The story starts a little closer to now, as we are introduced to a deluded man, so indoctrinated on the political rhetoric he forfeits his life. This will allow exposition that explains the environment leading up to the main story
+
+As worldwide power and wealth is accumulated at the top, there are not enough resources for all at the bottom. So a series of conflicts are started in different parts of the world, before igniting into a global conflict. The purpose of the war is twofold. The population must be reduced, drastically. And attempts are made to develop the ultimate man. 
+
+Nationalism is pushed early in the war, but it soon develops into allegiance to certain individuals within the mega corporations. These individuals are figureheads, manufactured to keep the people from discovering what’s really going on. And of course both sides accuse the other of crimes against humanity, which bot are party to behind the scenes. 

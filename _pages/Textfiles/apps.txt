@@ -1,0 +1,22 @@
+7-zip
+Amazon Luna
+Amazon Music
+Amazon Photos
+Apple Devices
+Apple Music
+Calibre
+Emby
+Git
+Kindle
+Messenger
+Microsoft Office
+Microsoft Todo
+Obsidian
+Prime Video
+Raspberry Pi Imager
+Rufus
+Tailscale
+Visual Studio Code
+WinSCP
+World of Warcraft
+WSL
